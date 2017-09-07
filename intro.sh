@@ -2,8 +2,8 @@
 
 echo "Hello, let me introduce myself"
 
-NAME=Michael
-HOMETOWN=Indianapolis
+NAME=Eric
+HOMETOWN=Spokane
 MAJOR=CS
 FAVORITE_HOBBY=read
 
